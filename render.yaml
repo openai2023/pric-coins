@@ -1,0 +1,3 @@
+services:
+  web:
+    start_command: node index.js
